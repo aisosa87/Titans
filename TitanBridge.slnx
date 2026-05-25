@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="CONTRIBUTING.md" />
+    <File Path="gitattributes" />
+    <File Path="gitignore" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="TitanBridge.Web/TitanBridge.Web.csproj" />
+</Solution>

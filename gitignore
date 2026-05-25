@@ -1,0 +1,61 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio cache/options
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ReSharper
+.idea/
+*.resharper
+*.resharper.user
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# Entity Framework
+*.efcsproj
+/migrations/
+
+# App specific
+appsettings.Development.json
+appsettings.local.json
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Test Results
+TestResults/
+*.coverage
+
+# Node (if using npm for frontend)
+node_modules/
+npm-debug.log
